@@ -61,9 +61,9 @@ The system generates PM2.5 predictions for the next 24 hours based on temporal i
 
 <b>Output:</b><br>
 The program produces:
-Model evaluation metrics
-Actual vs predicted PM2.5 graph
-24-hour PM2.5 forecast plot
+Model evaluation metrics,
+Actual vs predicted PM2.5 graph,
+24-hour PM2.5 forecast plot,
 Saved trained model file
 
 <b>Example outputs:</b><br>
