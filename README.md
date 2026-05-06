@@ -73,11 +73,11 @@ R² Score: 0.967
 
 <b>Installation</b><br>
 
-Step 1: Clone Repository
+Step 1: Clone Repository<br>
 git clone https://github.com/Seethalaxmi0103/air-quality-prediction.git<br>
-Step 2: Navigate to Project Folder
+Step 2: Navigate to Project Folder<br>
 cd air-quality-prediction<br>
-Step 3: Install Dependencies
+Step 3: Install Dependencies<br>
 pip install -r requirements.txt
 
 <b>Running the Project</b><br>
