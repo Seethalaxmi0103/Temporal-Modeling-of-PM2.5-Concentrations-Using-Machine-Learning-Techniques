@@ -74,7 +74,7 @@ R² Score: 0.967
 <b>Installation</b><br>
 
 Step 1: Clone Repository
-git clone https://github.com/yourusername/air-quality-prediction.git<br>
+git clone https://github.com/Seethalaxmi0103/air-quality-prediction.git<br>
 Step 2: Navigate to Project Folder
 cd air-quality-prediction<br>
 Step 3: Install Dependencies
