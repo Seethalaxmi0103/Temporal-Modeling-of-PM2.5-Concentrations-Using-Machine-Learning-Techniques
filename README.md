@@ -74,7 +74,7 @@ R² Score: 0.967
 <b>Installation</b><br>
 
 Step 1: Clone Repository<br>
-git clone https://github.com/Seethalaxmi0103/air-quality-prediction.git<br>
+git clone https://github.com/Seethalaxmi0103/Temporal-Modeling-of-PM2.5-Concentrations-Using-Machine-Learning-Techniques.git<br>
 Step 2: Navigate to Project Folder<br>
 cd air-quality-prediction<br>
 Step 3: Install Dependencies<br>
